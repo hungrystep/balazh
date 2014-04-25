@@ -1,0 +1,65 @@
+body
+{
+	background:url(../images/fone.jpg);
+	background-position: right;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+
+#main{
+	width:1100px;
+	/*	background-color: #eae323;*/
+	margin-left: -12px;
+	margin-top: 20px;
+	height: 600px;
+	float:auto;
+}
+
+
+#logo img{
+	width: 70px;
+	margin-left: 230px;
+
+}
+
+
+
+
+#header{
+	width: 280px;
+	height: 25px;
+	margin-top: -110px;
+	margin-left: 350px;
+	padding-top: 40px;
+	border-bottom: solid #e12eaf 1px;
+	padding-left: 480px;
+	font-size:21px;
+	font-style: Tahoma;
+}
+
+#textarea{
+	margin-left: 380px;
+	margin-top: -340px;
+	width: 700px;
+	background-color: #eaeaea
+	float:right;
+}
+
+
+
+
+#sidebar{
+	width:110px;
+	margin-top:80px;
+	margin-left:190px;
+	height: 280px;
+	text-transform: 2px;
+	padding-top: 10px;
+	border-right: solid #eae13a 1px ;
+}
+
+#sidebar li
+{
+	list-style-type:none;
+}
